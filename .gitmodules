@@ -1,0 +1,12 @@
+[submodule "third-party/hyprland/stephan-raabe-gitlab-dotfiles"]
+	path = third-party/hyprland/stephan-raabe-gitlab-dotfiles
+	url = https://gitlab.com/stephan-raabe/dotfiles.git
+[submodule "third-party/hyprland/end-4-github-dotfiles"]
+	path = third-party/hyprland/end-4-github-dotfiles
+	url = https://github.com/end-4/dots-hyprland.git
+[submodule "third-party/hyprland/fufexan-github-dotfiles"]
+	path = third-party/hyprland/fufexan-github-dotfiles
+	url = https://github.com/fufexan/dotfiles.git
+[submodule "third-party/hyprland/prasanthrangan-github-dotfiles"]
+	path = third-party/hyprland/prasanthrangan-github-dotfiles
+	url = https://github.com/prasanthrangan/hyprdots.git

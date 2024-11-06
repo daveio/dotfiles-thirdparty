@@ -10,3 +10,36 @@
 [submodule "third-party/hyprland/prasanthrangan-github-dotfiles"]
 	path = third-party/hyprland/prasanthrangan-github-dotfiles
 	url = https://github.com/prasanthrangan/hyprdots.git
+[submodule "third-party/yadm/DoomHammer"]
+	path = third-party/yadm/DoomHammer
+	url = https://github.com/DoomHammer/dotfiles
+[submodule "third-party/yadm/akatrevorjay"]
+	path = third-party/yadm/akatrevorjay
+	url = https://github.com/akatrevorjay/dotfiles
+[submodule "third-party/yadm/akupila"]
+	path = third-party/yadm/akupila
+	url = https://github.com/akupila/dotfiles
+[submodule "third-party/yadm/bjartek"]
+	path = third-party/yadm/bjartek
+	url = https://github.com/bjartek/dotfiles
+[submodule "third-party/yadm/cschooley"]
+	path = third-party/yadm/cschooley
+	url = https://github.com/cschooley/dotfiles
+[submodule "third-party/yadm/esphen"]
+	path = third-party/yadm/esphen
+	url = https://github.com/esphen/dotfiles
+[submodule "third-party/yadm/gverilla"]
+	path = third-party/yadm/gverilla
+	url = https://github.com/gverilla/dotfiles
+[submodule "third-party/yadm/mes5k"]
+	path = third-party/yadm/mes5k
+	url = https://github.com/mes5k/dotfiles
+[submodule "third-party/yadm/overclockedllama"]
+	path = third-party/yadm/overclockedllama
+	url = https://github.com/overclockedllama/dotfiles
+[submodule "third-party/yadm/pendowski"]
+	path = third-party/yadm/pendowski
+	url = https://github.com/pendowski/dotfiles
+[submodule "third-party/yadm/schneiderfelipe"]
+	path = third-party/yadm/schneiderfelipe
+	url = https://github.com/schneiderfelipe/dotfiles

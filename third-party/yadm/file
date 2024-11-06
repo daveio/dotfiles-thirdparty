@@ -1,0 +1,11 @@
+git submodule add https://github.com/DoomHammer/dotfiles DoomHammer
+git submodule add https://github.com/akatrevorjay/dotfiles akatrevorjay
+git submodule add https://github.com/akupila/dotfiles akupila
+git submodule add https://github.com/bjartek/dotfiles bjartek
+git submodule add https://github.com/cschooley/dotfiles cschooley
+git submodule add https://github.com/esphen/dotfiles esphen
+git submodule add https://github.com/gverilla/dotfiles gverilla
+git submodule add https://github.com/mes5k/dotfiles mes5k
+git submodule add https://github.com/overclockedllama/dotfiles overclockedllama
+git submodule add https://github.com/pendowski/dotfiles pendowski
+git submodule add https://github.com/schneiderfelipe/dotfiles schneiderfelipe

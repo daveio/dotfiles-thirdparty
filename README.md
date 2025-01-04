@@ -1,2 +1,2 @@
-# dotfiles
-Personal and third party dotfiles
+# dotfiles-thirdparty
+Third party dotfiles
